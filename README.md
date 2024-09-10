@@ -1,5 +1,5 @@
-# ORB-SLAM3 超详细注释
-
+# DOG-SLAM
+DOG-SLAM base on  ORBSLAM3
 ![DEMO](https://github.com/electech6/ORB_SLAM3_detailed_comments/blob/master/demo.gif)
 
 独家视频课程《VIO灭霸：ORB-SLAM3公式推导+源码逐行解析+算法改进》！ [点击进入官网](https://cvlife.net/)
